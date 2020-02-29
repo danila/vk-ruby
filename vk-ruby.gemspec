@@ -57,7 +57,7 @@ THANKS
   gem.add_runtime_dependency 'docopt',   '~> 0.5', '>= 0.5.0'
   gem.add_runtime_dependency 'highline', '~> 1.6', '>= 1.6.21'
 
-  gem.add_development_dependency 'rake',      '~> 10.3', '>= 10.3.1'
+  gem.add_development_dependency 'rake',      '>= 10.3.1', '~> 13.0'
   gem.add_development_dependency 'rspec',     '~> 2.14', '>= 2.14.1'
   gem.add_development_dependency 'pry',       '~> 0.9',  '>= 0.9.12.6'
   gem.add_development_dependency 'webmock',   '~> 1.17', '>= 1.17.4'
